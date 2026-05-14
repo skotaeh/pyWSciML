@@ -1,6 +1,6 @@
 # pyWSciML
 
-A Python library for Weak-Form Scientific Machine Learning, implementing the [WENDy](https://doi.org/10.1007/s11538-023-01208-6) (parameter estimation) and [WSINDy](https://doi.org/10.1137/20M1343166) (equation discovery) frameworks.
+A Python library for Weak-Form Scientific Machine Learning, implementing the [WENDy](https://arxiv.org/pdf/2507.03206) (parameter estimation) and [WSINDy](https://arxiv.org/pdf/2005.04339) (equation discovery) frameworks.
 
 This library is a refactored, object-oriented reorganization of the research code accompanying the paper ["Weak Form Scientific Machine Learning: Test Function Construction for System Identification"](https://arxiv.org/abs/2507.03206) (Tran & Bortz, 2025). For a detailed description of the library's design, structure, and motivation, see the [full report (PDF)](docs/pyWSciML_report.pdf).
 
